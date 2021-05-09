@@ -3,6 +3,8 @@
 
 This is a keyboard firmware based on the [QMK Firmware](https://github.com/qmk/qmk_firmware)
 
+![Imgur](https://i.imgur.com/Vwa2VM5.jpg)
+
 I'll provide more details soon...
 
 ## QMK Documentation
