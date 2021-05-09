@@ -26,7 +26,7 @@ enum layer_names {
 
 enum custom_keycodes {
   QWERTY,
-  WORKMAN,
+  WORKMAN = SAFE_RANGE,
 };
 
 #define LOWER  MO(_LOWER)
